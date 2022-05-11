@@ -1,5 +1,5 @@
 # cpp-learning-2
-This is my WIP project I've been working on for a while that is a summary of my c++ OOP practice.
+This is my WIP project I've been working on for a while that is a summary of my c++ OOP practice
 # What is it?
 It's a rpg-like game battle simulator. I know it sound simple but form programming viewpoint its far more complex
 # Gameplay loop
