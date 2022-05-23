@@ -16,7 +16,6 @@ int main(){
         std::cout << "-------------------\n";
         std::cout << "monster 1 life: " <<m1.life << "\n" <<"monster 2 life: " <<  m2.life << "\n" << "player life: " << player.life << "\n";
         
-        //player turn - doesn't work
         while (playerturn==true)
         {   
             char choice;
